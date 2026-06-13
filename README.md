@@ -25,9 +25,6 @@
       <img src="https://img.shields.io/badge/GitHub-Achintya8-black?style=for-the-badge&logo=github&logoColor=white">
     </a>
   </p>
-  
-  <!-- Live Profile Views -->
-  <img src="https://komarev.com/normal-badge.png?username=Achintya8&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="profile views" />
 </div>
 
 ---
@@ -44,7 +41,6 @@ Here is the snake animation eating my commit graph:
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Achintya8/Achintya8/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
   <br>
-  <sub>*Note: This animation will load once you push the <b>snake.yml</b> workflow file and it builds the SVG to the <b>output</b> branch.*</sub>
 </div>
 
 ---
