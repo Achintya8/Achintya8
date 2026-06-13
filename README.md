@@ -32,15 +32,6 @@
 
 ---
 
-## 📊 GitHub Contribution Heatmap
-
-Here is my live contribution heatmap calendar (updated in real-time):
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/8b5cf6/Achintya8" alt="Achintya's GitHub contribution calendar" width="100%" />
-</div>
-
----
 
 ## 🐍 GitHub Contribution Grid Snake
 
